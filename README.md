@@ -113,6 +113,8 @@ This will start 4 terminals:
   Your browser does not support the video tag.
 </video>
 
+[Click Here](https://youtu.be/y3TqNdaqOh4)
+
 ## Resources Used
 
 1. https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
