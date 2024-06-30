@@ -84,11 +84,12 @@ This will start 4 terminals:
 ## Initial Pose Estimation 
 
 1. Click the 2D Pose Estimate button in the RViz menu.
-![Alt text](images_github/2d_pose_button.png)
+![image](images_github/2d_pose_button.png)
 2. Click on the map where the actual robot is located and drag the large green arrow toward the direction where the robot is facing.
 3. Repeat step 1 and 2 until the LDS sensor data is overlayed on the saved map.
 4. Use keyboard teleoperation node to precisely locate the robot on the map.
 5. Move the robot back and forth a bit to collect the surrounding environment information and narrow down the estimated location of the TurtleBot3 on the map which is displayed with tiny green arrows.
+![image](images_github/tb3_amcl_particle_02.png)
 6. Terminate the keyboard teleoperation node by entering Ctrl + C to the teleop node terminal in order to prevent different cmd_vel values are published from multiple nodes during Navigation.
 
 ## Set Navigation Goal
