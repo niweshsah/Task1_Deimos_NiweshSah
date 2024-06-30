@@ -92,6 +92,8 @@ This will start 4 terminals:
 
 <p float="left">
   <img src="images_github/tb3_amcl_particle_02.png" width="200" />
+  <img src="images_github/tb3_amcl_particle_01.png" width="200" />
+     
 <!--   <img src="path/to/image2.png" width="200" />  -->
 </p>
 <!-- ![image](images_github/tb3_amcl_particle_02.png) -->
