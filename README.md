@@ -89,7 +89,13 @@ This will start 4 terminals:
 3. Repeat step 1 and 2 until the LDS sensor data is overlayed on the saved map.
 4. Use keyboard teleoperation node to precisely locate the robot on the map.
 5. Move the robot back and forth a bit to collect the surrounding environment information and narrow down the estimated location of the TurtleBot3 on the map which is displayed with tiny green arrows.
-![image](images_github/tb3_amcl_particle_02.png)
+
+<p float="left">
+  <img src="images_github/tb3_amcl_particle_02.png" width="200" />
+<!--   <img src="path/to/image2.png" width="200" />  -->
+</p>
+<!-- ![image](images_github/tb3_amcl_particle_02.png) -->
+
 6. Terminate the keyboard teleoperation node by entering Ctrl + C to the teleop node terminal in order to prevent different cmd_vel values are published from multiple nodes during Navigation.
 
 ## Set Navigation Goal
