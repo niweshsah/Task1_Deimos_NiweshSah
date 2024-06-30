@@ -91,17 +91,15 @@ This will start 4 terminals:
 5. Move the robot back and forth a bit to collect the surrounding environment information and narrow down the estimated location of the TurtleBot3 on the map which is displayed with tiny green arrows.
 
 <p float="left">
-  <img src="images_github/tb3_amcl_particle_02.png" width="200" />
   <img src="images_github/tb3_amcl_particle_01.png" width="200" />
-     
-<!--   <img src="path/to/image2.png" width="200" />  -->
+  <img src="images_github/tb3_amcl_particle_02.png" width="200" />
 </p>
-<!-- ![image](images_github/tb3_amcl_particle_02.png) -->
 
 6. Terminate the keyboard teleoperation node by entering Ctrl + C to the teleop node terminal in order to prevent different cmd_vel values are published from multiple nodes during Navigation.
 
 ## Set Navigation Goal
 1. Click the 2D Nav Goal button in the RViz menu.
+![image](images_github/2d_nav_goal_button.png)
 2. Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing.
 .  This green arrow is a marker that can specify the destination of the robot.
 .  The root of the arrow is x, y coordinate of the destination, and the angle θ is determined by the orientation of the arrow.
