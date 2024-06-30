@@ -108,11 +108,6 @@ This will start 4 terminals:
 
 ## Demo Video
 
-<video controls width="600">
-  <source src="images_github/Working_Task1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 [Click Here](https://youtu.be/y3TqNdaqOh4)
 
 ## Resources Used
