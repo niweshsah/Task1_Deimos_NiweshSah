@@ -108,7 +108,7 @@ This will start 4 terminals:
 
 ## Demo Video
 
-[Click Here](https://youtu.be/y3TqNdaqOh4)
+Refer to this [video](https://youtu.be/y3TqNdaqOh4){:target="_blank" rel="noopener noreferrer"}.
 
 ## Resources Used
 
