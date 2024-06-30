@@ -21,7 +21,7 @@ Before you can run the node, make sure you have the following installed:
 2.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/niweshsah/Task1_Deimos_NiweshSah_Testing1.git
+    git clone https://github.com/niweshsah/Task1_Deimos_NiweshSah.git
     ```
 
 3. **Build the Package**
