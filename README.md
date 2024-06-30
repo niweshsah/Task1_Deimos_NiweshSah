@@ -16,13 +16,12 @@ Before you can run the node, make sure you have the following installed:
     cd ~
     mkdir catkin_ws
     cd catkin_ws/
-    
     ```
 
 2.  **Clone the Repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/niweshsah/Task1_Deimos_NiweshSah_Testing1.git
     ```
 
 3. **Build the Package**
@@ -56,6 +55,7 @@ To run the node, use the following command:
 ```bash
 rosrun main_launch map_making.py 
 ```
+
 This will start 4 terminals:
 1. Rosmaster
 2. Gazebo world simulation with turtlebot3
@@ -104,3 +104,10 @@ This will start 4 terminals:
 .  This green arrow is a marker that can specify the destination of the robot.
 .  The root of the arrow is x, y coordinate of the destination, and the angle θ is determined by the orientation of the arrow.
 .  As soon as x, y, θ are set, TurtleBot3 will start moving to the destination immediately.
+
+
+## Resources Used
+
+1. https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+2. https://gazebosim.org/docs
+3. https://wiki.ros.org/Documentation
